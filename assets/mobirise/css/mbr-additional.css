@@ -2298,40 +2298,65 @@ body {
     padding: 0 1rem;
   }
 }
-.cid-r2wAtls8SH {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-r2wXZn5oIO {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-r2wAtls8SH .counter-container {
+.cid-r2wXZn5oIO p {
   color: #767676;
 }
-.cid-r2wAtls8SH .counter-container ul {
-  margin-bottom: 0;
+.cid-r2wXZn5oIO .img-wrap {
+  width: 100% !important;
+  height: 100% !important;
 }
-.cid-r2wAtls8SH .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
+.cid-r2wXZn5oIO .row-element,
+.cid-r2wXZn5oIO .image-element {
+  padding: 0;
 }
-.cid-r2wAtls8SH .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
+.cid-r2wXZn5oIO .image-element {
+  display: flex;
+  justify-content: center;
+}
+.cid-r2wXZn5oIO .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-r2wXZn5oIO .underline {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+.cid-r2wXZn5oIO .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #a38dfd, #fe525b);
   display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #1ba1e2;
-  background: linear-gradient(135deg, #1ba1e2, #f1c40f);
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  border-radius: 0;
-  content: '✓';
+}
+@media (min-width: 1500px) {
+  .cid-r2wXZn5oIO .text-content {
+    padding: 5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 1499px) {
+  .cid-r2wXZn5oIO .text-content {
+    padding: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r2wXZn5oIO .text-content {
+    padding: 2rem 1rem;
+  }
+  .cid-r2wXZn5oIO .underline .line {
+    height: 2px;
+  }
+  .cid-r2wXZn5oIO .mbr-title,
+  .cid-r2wXZn5oIO .underline,
+  .cid-r2wXZn5oIO .mbr-text,
+  .cid-r2wXZn5oIO .mbr-section-btn {
+    text-align: center !important;
+  }
 }
 .cid-r2wAFEJYP9 {
   padding-top: 90px;
