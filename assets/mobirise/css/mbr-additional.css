@@ -3773,6 +3773,26 @@ body {
   border-radius: 0;
   content: '✓';
 }
+.cid-r2xGBFEuKy {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-r2xGBFEuKy .container-fluid {
+  padding: 0 3rem;
+}
+.cid-r2xGBFEuKy .media-container-column {
+  padding: 0 2rem;
+}
+.cid-r2xGBFEuKy .mbr-section-title {
+  display: inline-block;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-r2xGBFEuKy .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-r2wT9rJhDe {
   padding-top: 0px;
   padding-bottom: 0px;
