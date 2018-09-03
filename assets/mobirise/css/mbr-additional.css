@@ -2585,6 +2585,65 @@ body {
     margin: 1rem;
   }
 }
+.cid-r2xMqjqPb6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-r2xMqjqPb6 .social-media {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 4rem;
+}
+.cid-r2xMqjqPb6 .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-r2xMqjqPb6 .social-media ul li {
+  padding: 4px;
+  display: inline-block;
+}
+.cid-r2xMqjqPb6 .logo-section {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 4rem;
+}
+.cid-r2xMqjqPb6 .icon-transition span {
+  color: #ffffff;
+  display: block;
+  padding: 0.1rem 0.9rem;
+  height: 4em;
+  line-height: 4em;
+  border-radius: 50%;
+  background-color: #1ba1e2;
+  width: 4em;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 13px;
+}
+.cid-r2xMqjqPb6 .icon-transition span:hover {
+  background-color: #cccccc;
+}
+.cid-r2xMqjqPb6 .mbr-text {
+  color: #cccccc;
+}
+@media (max-width: 991px) {
+  .cid-r2xMqjqPb6 .social-media {
+    justify-content: center;
+    padding-right: 0rem;
+  }
+  .cid-r2xMqjqPb6 .logo-section {
+    justify-content: center;
+    padding-left: 0rem;
+    margin-bottom: 1.5rem;
+  }
+  .cid-r2xMqjqPb6 .mbr-text {
+    margin-bottom: 1.5rem;
+  }
+}
 .cid-r1NpwKwayO .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
